@@ -15,4 +15,4 @@ Build a simple rule-based chatbot (NLTK) and show sample interactions.
 3. Tools
 Python · NLTK
 
-> 🔗 GitHub Repo: https://github.com/priyarameshnaik/FUTURE_ML_03
+> 🔗 GitHub Repo: https://github.com/Priya691-web/FUTURE_ML_03

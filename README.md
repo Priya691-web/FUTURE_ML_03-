@@ -8,9 +8,8 @@ Customer Support Chatbot
 1. Objective
 Build a simple rule-based chatbot (NLTK) and show sample interactions.
 
-2. Files
+2. File
 - `03_Chatbot.ipynb`
-- `reports/visuals/conversation.png`
 
 3. Tools
 Python · NLTK
